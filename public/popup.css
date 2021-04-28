@@ -1,0 +1,96 @@
+.logo{
+    width: 20%;
+  
+  }
+  .logo img{
+    width: 100%;
+  }
+  .upper{
+    background-color: red;
+  }
+  section img{
+    width: 100%;
+    border-radius: 50%;
+  
+  }
+  h1{
+    color: black;
+  }
+  .footer h4{
+  text-align: center;
+  }
+  body{
+      font-family: Avenir Next W02,Helvetica,Arial,sans-serif;
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+      /* color: rgba(0,0,0,.5); */
+      color: white;
+  }
+  .btn{
+  
+  }
+  .table tr:hover{
+      background-color: ;
+    
+  }
+  
+  .nav-item:hover{
+      background-color: #197b88;
+  }
+  
+  .navbar-light .navbar-nav .active>.nav-link
+   {
+      color: #1037f5;
+  }
+  .container-fluid {
+         
+  
+  }
+  p{
+    font-size: 10;
+  }
+  
+  .pagination{
+    font-style: Avenir Next W02,Helvetica,Arial,sans-serif;
+     color: #0091ae;
+    
+  }
+  thead{
+    background-color: #eaedf1;
+  }
+  .page-link{
+   color: #0091ae;
+  }
+  .btn-outline-dark:hover {
+      /* color: #fff; */
+      /* background-color: #343a40; */
+      /* border-color: #343a40; */
+  }
+  
+  
+  .page-item.active .page-link {
+     
+      background-color: #0091ae;
+      border-color: #0091ae;
+  }
+  a {
+  color: #0091ae;
+  }
+  
+   a:hover {
+      color: #0091ae;
+       text-decoration: none; 
+  }
+  .btn-outline-secondary:hover {
+      color: #fff;
+      background-color: #0091ae;;
+      border-color: #6c757d;
+  }
+  
+  h2{
+    background-color: #17a2b8;
+    color: #fff;
+      font-family: Avenir Next W02,Helvetica,Arial,sans-serif;
+  }
+  
